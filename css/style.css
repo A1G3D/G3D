@@ -1,0 +1,132 @@
+html, body {margin:0; padding:0}
+body {
+background-color:#E8E8E8;
+margin:5px 5px 5px 5px;
+background-repeat:no-repeat;
+background-position:right top;
+}
+#header{ 
+height:175px; 
+background:#FFDAB9; 
+}
+.top img{
+    width: 100%;
+    background-size: cover;
+}
+img#logo
+{
+	position: absolute;
+    left: 0px;
+    top: 100px;
+}
+img#france
+{
+	position: absolute;
+    right: 20px;
+    top: 15px;
+}
+img#anglais
+{
+	position: absolute;
+    right: 20px;
+    top: 40px;
+}
+h1 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+}
+h2 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+}
+h3 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:#E8E8E8;
+background-color:transparent;
+text-align:center;
+}
+p {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+margin-left:0;
+margin-right:0;
+}
+#nav {
+    padding: 0; margin: 0;
+    text-align: center; /* centrer le texte */
+}
+#nav li {
+    display: inline;
+    list-style: none;
+}
+#nav a {
+    display:inline-block;
+    margin: 0 30px;
+}
+/*li {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:center;
+margin-left:0;
+margin-right:0;
+display: inline;
+padding: 0 0.5em;
+}
+a:link {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:visited {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:hover {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:active, a:focus {
+font-family:verdana, sans-serif; font-size:100%; color:black; background-color:transparent; text-decoration:underline; }
+table {
+border-color:white;
+border-style:solid;
+border-width:1px;
+}*/
+table {
+margin: 0 auto;
+}
+td {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+text-align:center;
+background-color:transparent;
+border-color:black;
+border-style:solid;
+border-width:2px;
+}
+li
+{
+border-right: 2px black solid;
+padding-right: 2px;
+}
