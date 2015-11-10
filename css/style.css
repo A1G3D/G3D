@@ -4,10 +4,13 @@ background-color:#E8E8E8;
 margin:5px 5px 5px 5px;
 background-repeat:no-repeat;
 background-position:right top;
+font-family:Palatino;
 }
+
 #header{ 
 height:175px; 
-background:#FFDAB9; 
+background:#787878; 
+
 }
 .top img{
     width: 100%;
